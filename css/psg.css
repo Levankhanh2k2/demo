@@ -205,7 +205,7 @@ footer {
 .gallery {
     margin-top: 40px;
     display: grid;
-    grid-template-columns: repeat(3, 1fr); /* 3 ảnh mỗi hàng */
+    grid-template-columns: repeat(2, 1fr); /* 3 ảnh mỗi hàng */
     gap: 20px;
     padding: 20px;
 }
