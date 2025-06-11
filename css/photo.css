@@ -43,7 +43,7 @@ header {
 
 .menu {
     display: flex;
-    gap: 20px;
+    gap: 5px;  /*====Kích Thước Menu====*/
 }
 
 .menu a {
