@@ -278,6 +278,21 @@ footer {
     background: rgba(255, 255, 255, 0.4);
 }
 /* ============================================ */
+.hinh {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    margin-top: 20px; /* hoặc điều chỉnh theo ý bạn */
+}
+
+.hinh img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
 
 
   
